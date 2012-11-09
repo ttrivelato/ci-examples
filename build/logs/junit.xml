@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Calculator" file="/home/ttrivelato/p/ci-examples/calculator.php" tests="4" assertions="4" failures="0" errors="0" time="0.022925">
+    <testsuite name="CalculatorTest" file="/home/ttrivelato/p/ci-examples/tests/CalculatorTest.php" tests="4" assertions="4" failures="0" errors="0" time="0.022925">
+      <testcase name="testAdd" class="CalculatorTest" file="/home/ttrivelato/p/ci-examples/tests/CalculatorTest.php" line="34" assertions="1" time="0.014972"/>
+      <testcase name="testAdd2" class="CalculatorTest" file="/home/ttrivelato/p/ci-examples/tests/CalculatorTest.php" line="45" assertions="1" time="0.002656"/>
+      <testcase name="testAdd3" class="CalculatorTest" file="/home/ttrivelato/p/ci-examples/tests/CalculatorTest.php" line="56" assertions="1" time="0.003209"/>
+      <testcase name="testAdd4" class="CalculatorTest" file="/home/ttrivelato/p/ci-examples/tests/CalculatorTest.php" line="67" assertions="1" time="0.002088"/>
+    </testsuite>
+  </testsuite>
+</testsuites>
